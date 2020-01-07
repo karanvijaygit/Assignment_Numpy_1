@@ -5,6 +5,7 @@ Created on Tue Feb 12 23:34:05 2019
 
 @author: karan
 """
+# Numpy Assignment to show the column stack functionality of numpy with powerseries
 import numpy as np
 order = input("In Which order you want the power series : decreasing or increasing\n")
 N = 5
